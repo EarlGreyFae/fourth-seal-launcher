@@ -1,0 +1,4 @@
+# The CurseForge API key - never published (CurseForge's terms).
+src/ApiKey.cs
+# Built files.
+dist/
