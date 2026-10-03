@@ -1,0 +1,10 @@
+// The CurseForge API key. This file is NEVER uploaded to the public repo
+// (.gitignore) - CurseForge's terms say the key must not be shared.
+// build.cmd makes an empty one from ApiKey.cs.example if it's missing.
+namespace FourthSealLauncher
+{
+    static class ApiKey
+    {
+        public const string Value = "";
+    }
+}
